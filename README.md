@@ -2,7 +2,7 @@
 
 Trying to find my place in the world of computer science.
 
-###What I am learning 
+### What I am learning 
 1. Andriod Development
 2. Web Development
 3. QT Framework
