@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=47F713&width=435&lines=Hello+there....+;My+Name+is+Bhumit)](https://git.io/typing-svg)
 
 Trying to find my place in the world of computer science.
-
+<img align="right" height="150" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"  />
 ### What I am learning 
 1. Andriod Development
 2. Web Development
@@ -14,7 +14,7 @@ Trying to find my place in the world of computer science.
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"  />
+
 
 ###
 
