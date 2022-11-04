@@ -36,14 +36,15 @@ Trying to find my place in the world of computer science.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="35" widht="46"alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  height="35" widht="46" alt="kotlin logo" />
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" widht="46" alt="figma logo" />
+      <td>        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" widht="46" alt="react logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" widht="46" alt="html5 logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" widht="46" alt="css3 logo"  />
       </td>
       <td></td>
-      <td> <a href="https://developer.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" widht="46" alt="android"/></a></td>
+      <td> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" widht="46" alt="figma logo" />
+      <a href="https://developer.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" widht="46" alt="android"/></a></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" widht="46"/></td>
     </tr>
   </table>
