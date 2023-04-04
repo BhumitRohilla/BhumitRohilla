@@ -45,7 +45,9 @@ Trying to find my place in the world of computer science.
       <td> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" widht="46" alt="figma logo" />
       <a href="https://developer.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" widht="46" alt="android"/></a></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="35" widht="46"/></td>
+    <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" heigth= "35" width= "46"/>
+          </td>
     </tr>
   </table>
   
